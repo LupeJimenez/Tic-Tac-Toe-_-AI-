@@ -1,7 +1,7 @@
 # Tic-Tac-Toe-_-AI- Project 
 Tic Tac Toe Game
 
-This is a simple Tic Tac Toe game built using JavaScript. The game can be played in Player vs Player (PVP) mode, Player vs Computer (PVC), or Player vs Computer (PVC-hard) mode with an advanced AI using the minimax algorithm.
+This is a simple Tic Tac Toe game built using JavaScript. The game can be played in Player vs Player (PVP) mode, Player vs Computer (PVC), or Player vs Computer (PVC-hard) mode with an advanced AI using the minimax algorithm. The depth for the "PVC-hard" game mode in the Minimax algorithm is set to 4. This depth allows the computer to consider several potential moves ahead to determine the optimal play, making it more challenging to beat
 
 tictactoe.html: This file contains the HTML structure of the Tic Tac Toe game. It includes the game board and sets up the game rules and logic.
 
