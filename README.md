@@ -4,7 +4,9 @@ Tic Tac Toe Game
 This is a simple Tic Tac Toe game built using JavaScript. The game can be played in Player vs Player (PVP) mode, Player vs Computer (PVC), or Player vs Computer (PVC-hard) mode with an advanced AI using the minimax algorithm.
 
 tictactoe.html: This file contains the HTML structure of the Tic Tac Toe game. It includes the game board and sets up the game rules and logic.
+
 style.css: The CSS file for the project. It styles the game board and its elements to create an engaging and user-friendly interface.
+
 script.js: The JavaScript file that handles the game logic. It includes the rules for making moves, checking for a win or draw, and updating the game state.
 
 
